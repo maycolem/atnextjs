@@ -1,0 +1,6 @@
+export * from './Method'
+export * from './BankPayout'
+export * from './InputAmount'
+export * from './TabsAccount'
+export * from './NewAccount'
+export * from './SelectAccount'

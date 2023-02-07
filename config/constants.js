@@ -1,0 +1,10 @@
+export const PROTECTED_LEVEL_TYPES = {
+  UNPROTECTED: 0,
+  SEMI_PROTECTED: 1,
+  PROTECTED: 2,
+}
+export const LAYOUT_TYPES = {
+  WITHOUT: -1,
+  DEFAULT: 0,
+  DASHBOARD: 1,
+}

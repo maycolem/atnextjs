@@ -1,0 +1,22 @@
+# Robots @ SpringBuilder
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+
+
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+
+Disallow: /frontend/
+
+User-agent: *
+Allow: /
+
+# Host:   https://calimaco.apuestatotal.dev/
+Sitemap:  https://calimaco.apuestatotal.dev//api/sitemap.xml
+
+
+

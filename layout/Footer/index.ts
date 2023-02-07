@@ -1,0 +1,5 @@
+export * from './Footer'
+export * from './TabMenu'
+export * from './PaymentMethods'
+export * from './Links'
+export * from './Captions'

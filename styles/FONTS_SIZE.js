@@ -1,0 +1,21 @@
+export const FONTS_SIZE = {
+  very_small: '7px',
+  xxs: '10px',
+  xs: '12px',
+  sm: '14px',
+  md: '16px', // 16 POR DEFECTO
+  lg: '18px',
+  xl: '20px',
+  xxl: '22px',
+  heading: '24px',
+  heading1: '28px',
+  heading2: '32px',
+  heading3: '42px',
+  heading4: '52px',
+  heading5: '62px',
+  heading6: '72px',
+  heading7: '82px',
+  heading8: '92px',
+  heading9: '112px',
+  heading10: '132px',
+}
